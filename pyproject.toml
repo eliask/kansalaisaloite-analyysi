@@ -1,0 +1,31 @@
+[project]
+name = "kansalaisaloite-analysis"
+version = "0.0.0"
+description = "Reproducible daily-signature seasonality for the public kansalaisaloite.fi API."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.14",
+    "ipykernel>=7",
+    "ipython>=8",
+    "matplotlib>=3.9",
+    "nbclient>=0.10",
+    "nbconvert>=7.17",
+    "nbformat>=5.10",
+    "numpy>=2.2",
+    "pandas>=2.2",
+    "requests>=2.32",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+]
+
+[tool.uv]
+package = false
+exclude-newer = "1 day"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

@@ -1,0 +1,2 @@
+factor,level,report,coef,n,n_campaigns,centered,lo,hi,multiplier,multiplier_lo,multiplier_hi
+summer_weekend,summer_weekend,True,-0.05803556766847241,14187,1153,False,-0.07088395929740138,-0.043826111483070175,0.9436163846051935,0.9315699858915153,0.9571203752461324

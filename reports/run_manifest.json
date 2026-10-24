@@ -1,0 +1,85 @@
+{
+  "stamp": "20261024T125724490572Z",
+  "cutoff": "2026-10-23",
+  "n_boot": 60,
+  "summary": {
+    "stamp": "20261024T125724490572Z",
+    "fetched_at": "2026-10-24T12:57:24.490804+00:00",
+    "cutoff": "2026-10-23",
+    "campaigns": 1937,
+    "usable_campaigns": 1921,
+    "web_counter": 12087768,
+    "series_sum": 12048033,
+    "external": 677250,
+    "usable_series_sum": 11999857,
+    "mismatch_campaigns": 1,
+    "mismatch_residual": 3531,
+    "mismatch_web": 51707,
+    "gap_campaigns": 51,
+    "gap_residual": 6539,
+    "missing_series_campaigns": 10,
+    "missing_series_web": 27634,
+    "canceled": 0,
+    "gini_web": 0.7879215130656811,
+    "started_campaigns": 1933,
+    "share_campaigns_under_100": 0.2255561303673047,
+    "top10_web_share": 0.09643633133925138,
+    "top1pct_web_share": 0.15271562127929655,
+    "series_outside": 0,
+    "example_id": 17951,
+    "example_support": 1685,
+    "example_series": 1611,
+    "example_residual": 74,
+    "n_boot": 60,
+    "min_signatures": 100,
+    "min_age": 7,
+    "peak_month": "2026-09-01",
+    "peak_signatures": 432888,
+    "peak_top_name": "Datakeskukset kuriin – Kansalaisaloite datakeskusten sääntelyn ja resurssipohjaisen datakeskusmaksun säätämiseksi",
+    "peak_top_share": 0.1882865775905084
+  },
+  "warnings": [],
+  "samples": [
+    {
+      "sample": "2017 onward, age ≥ 7, ≥ 100 web signatures",
+      "campaigns": 1153,
+      "campaign_days": 193144
+    },
+    {
+      "sample": "Through 2016, age ≥ 7, ≥ 100 web signatures",
+      "campaigns": 311,
+      "campaign_days": 53408
+    },
+    {
+      "sample": "Open campaign-days in the zero-filled panel",
+      "campaigns": 1921,
+      "campaign_days": 336454
+    }
+  ],
+  "figures": {
+    "en": {
+      "volume": "/home/elias/c/kansalaisaloite-analysis/reports/figures/en/volume_month.png",
+      "clock": "/home/elias/c/kansalaisaloite-analysis/reports/figures/en/campaign_clock.png",
+      "dow": "/home/elias/c/kansalaisaloite-analysis/reports/figures/en/dow.png",
+      "dow_era": "/home/elias/c/kansalaisaloite-analysis/reports/figures/en/dow_era.png",
+      "month": "/home/elias/c/kansalaisaloite-analysis/reports/figures/en/month.png",
+      "month_era": "/home/elias/c/kansalaisaloite-analysis/reports/figures/en/month_era.png",
+      "week": "/home/elias/c/kansalaisaloite-analysis/reports/figures/en/iso_week.png",
+      "dom": "/home/elias/c/kansalaisaloite-analysis/reports/figures/en/day_of_month.png",
+      "holidays": "/home/elias/c/kansalaisaloite-analysis/reports/figures/en/holidays.png",
+      "day_of_year": "/home/elias/c/kansalaisaloite-analysis/reports/figures/en/day_of_year.png"
+    },
+    "fi": {
+      "volume": "/home/elias/c/kansalaisaloite-analysis/reports/figures/fi/volume_month.png",
+      "clock": "/home/elias/c/kansalaisaloite-analysis/reports/figures/fi/campaign_clock.png",
+      "dow": "/home/elias/c/kansalaisaloite-analysis/reports/figures/fi/dow.png",
+      "dow_era": "/home/elias/c/kansalaisaloite-analysis/reports/figures/fi/dow_era.png",
+      "month": "/home/elias/c/kansalaisaloite-analysis/reports/figures/fi/month.png",
+      "month_era": "/home/elias/c/kansalaisaloite-analysis/reports/figures/fi/month_era.png",
+      "week": "/home/elias/c/kansalaisaloite-analysis/reports/figures/fi/iso_week.png",
+      "dom": "/home/elias/c/kansalaisaloite-analysis/reports/figures/fi/day_of_month.png",
+      "holidays": "/home/elias/c/kansalaisaloite-analysis/reports/figures/fi/holidays.png",
+      "day_of_year": "/home/elias/c/kansalaisaloite-analysis/reports/figures/fi/day_of_year.png"
+    }
+  }
+}

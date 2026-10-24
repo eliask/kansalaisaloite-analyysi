@@ -1,0 +1,22 @@
+sample,weekday,equal_median,signature_weighted,n_campaigns
+"30 web signatures, holidays out",Monday,1.00378782506872,1.0906947398250348,1218
+"30 web signatures, holidays out",Tuesday,1.0971058730399124,1.1454058692980635,1218
+"30 web signatures, holidays out",Wednesday,1.1225560221667188,1.1530544535287615,1218
+"30 web signatures, holidays out",Thursday,1.1000940182971686,1.0482979414388884,1218
+"30 web signatures, holidays out",Friday,0.9342768736479801,0.9341694279685984,1218
+"30 web signatures, holidays out",Saturday,0.7960124935667214,0.7660810181418238,1218
+"30 web signatures, holidays out",Sunday,0.8542936227354876,0.8622965497988294,1218
+"100 web signatures, holidays kept",Monday,1.0074057642098462,1.020914441761437,1153
+"100 web signatures, holidays kept",Tuesday,1.0971024793936137,1.1204148702424221,1153
+"100 web signatures, holidays kept",Wednesday,1.1198637179558475,1.1407848533779428,1153
+"100 web signatures, holidays kept",Thursday,1.098582250480474,1.1394354925709236,1153
+"100 web signatures, holidays kept",Friday,0.9443538595661104,0.968063633258454,1153
+"100 web signatures, holidays kept",Saturday,0.8051743827129184,0.7779991282877564,1153
+"100 web signatures, holidays kept",Sunday,0.8656147018168434,0.8323875805010639,1153
+"1,000 web signatures, holidays out",Monday,1.0095028875251795,1.0924465840348274,866
+"1,000 web signatures, holidays out",Tuesday,1.095216705083565,1.1466134631399205,866
+"1,000 web signatures, holidays out",Wednesday,1.1289112212771328,1.1537789441765485,866
+"1,000 web signatures, holidays out",Thursday,1.1033083626701568,1.0469516651147481,866
+"1,000 web signatures, holidays out",Friday,0.9375485221910791,0.9325819721620686,866
+"1,000 web signatures, holidays out",Saturday,0.7921099471300085,0.7649683220763329,866
+"1,000 web signatures, holidays out",Sunday,0.8537628564179385,0.8626590492955541,866

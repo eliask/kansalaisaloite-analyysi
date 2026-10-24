@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.kernels/
+*.pyc
+data
+reports/report.pkl
+reports/report.pkl.tmp
+reports/report.token
